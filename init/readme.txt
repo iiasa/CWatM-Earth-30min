@@ -1,0 +1,1 @@
+This folder is set to hold created CWatM initilization files
